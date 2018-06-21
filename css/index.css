@@ -152,7 +152,7 @@ p::first-letter
 {
 	background-image:url("../images/background.jpg");
 	height:301px;
-	width: 100%
+	width: 100%;
 	margin:0px;
 	padding-left: 130px; 
 	opacity: 0.5;
