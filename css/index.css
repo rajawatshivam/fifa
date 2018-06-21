@@ -108,6 +108,7 @@ p::first-letter
 	width: 100%;
 	background-color:#fff;
 	opacity: 0.7;
+	margin-bottom: px;
 }
 .heading
 {
@@ -116,14 +117,14 @@ p::first-letter
 	font-family: sans-serif;
 	opacity: 0.5;
 	color:#3e6c4e;
-	padding-top: 20px;
+	padding-top: 10px;
 	font-weight: bold;
 }
 .threesec
 {   
 	border: ridge white;
 	border-radius: 8px 8px 8px 8px;
-	margin-top:20px;
+	margin-top:0px;
 	margin-right:0px;
 	text-align: justify;
     background-color: #4f5663;
@@ -133,7 +134,7 @@ p::first-letter
 {
 	border: ridge white;
 	border-radius: 8px 8px 8px 8px;
-	margin-top:20px;
+	margin-top:0px;
 	margin-right:0px;
 	text-align: justify;
     background-color: #4f5663;
@@ -143,7 +144,7 @@ p::first-letter
 {
 	border: ridge white;
 	border-radius: 8px 8px 8px 8px;
-	margin-top:20px;
+	margin-top:0px;
 	margin-right:0px;
 	text-align: justify;
     background-color: #4f5663;
@@ -155,7 +156,7 @@ p::first-letter
 	width: 100%;
 	margin:0px;
 	padding-left: 130px; 
-	opacity: 0.5;
+	opacity: 0.7;
 	margin-bottom: 0px;
 }
 .vid
