@@ -1,0 +1,211 @@
+body
+{
+	background-image:url("../images/background.jpg");
+	background-repeat: no-repeat;
+	width:100%;
+	background-size: 100%;
+	margin:0px;
+}
+#header
+{
+	width:100%;
+	height:100px;
+	margin:0px;
+}
+header{
+	width:30%;
+	font-size:30px;
+	font-family: sans-serif;
+	padding-left:60px;
+	padding-top:30px;
+	font-weight: bold;
+	color:#A9A9A9;
+	float: left; 
+ }
+ .headeranchor:link {
+    text-decoration: none;
+}
+
+.headeranchor:visited {
+    text-decoration: none;
+}
+
+.headeranchor:hover {
+    text-decoration: underline;
+    color:#A9A9A9 
+}
+
+.headeranchor:active {
+    text-decoration:none;
+}
+#navbar
+{
+	margin-left:55%;
+	padding-right:20px;
+	margin-top:0px;
+    
+}
+.navbar
+{
+	margin:0px;
+	padding-right:10px;
+	font-size: 30px;
+	color:#A9A9A9;
+	font-family: sans-serif;
+	font-weight: bold;
+	display:inline-block;
+}
+p::first-letter
+{   
+	text-transform: uppercase;
+	font-size: 30px;
+	font-family: sans-serif;
+	margin-left: 8px;
+}
+ .navbar:link {
+    text-decoration: none;
+}
+.navbar:visited {
+    text-decoration: none;
+}
+
+.navbar:hover {
+    text-decoration: none;
+    color:#A9A9A9 
+}
+
+.navbar:active {
+    text-decoration:none;
+}
+.hero
+{
+	width:100%;
+	height:330px;
+	background-color:#434C68;
+}
+.herotext
+{
+	height:auto;
+	width:40%;
+	float:left;
+	font-size: 25px;
+	padding-left:60px;
+	padding-top: 25px;
+	font-family: sans-serif;
+	color: #999;
+}
+.heroimage
+{   
+	margin-left:50%;
+	height:100%;
+	width:auto;
+	background-image: url("../images/fifa.png");
+	background-repeat: no-repeat;
+}
+.cons
+{
+	height: 460px;
+	width: 100%;
+	background-color:#fff;
+	opacity: 0.7;
+}
+.heading
+{
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	opacity: 0.5;
+	color:#3e6c4e;
+	padding-top: 20px;
+	font-weight: bold;
+}
+.threesec
+{   
+	border: ridge white;
+	border-radius: 8px 8px 8px 8px;
+	margin-top:20px;
+	margin-right:0px;
+	text-align: justify;
+    background-color: #4f5663;
+    opacity: 0.8;
+}
+.threesect
+{
+	border: ridge white;
+	border-radius: 8px 8px 8px 8px;
+	margin-top:20px;
+	margin-right:0px;
+	text-align: justify;
+    background-color: #4f5663;
+    opacity: 0.9;
+}
+.threesecti
+{
+	border: ridge white;
+	border-radius: 8px 8px 8px 8px;
+	margin-top:20px;
+	margin-right:0px;
+	text-align: justify;
+    background-color: #4f5663;
+}
+#video
+{
+	background-image:url("../images/background.jpg");
+	height:301px;
+	width: 100%
+	margin:0px;
+	padding-left: 130px; 
+	opacity: 0.5;
+	margin-bottom: 0px;
+}
+.vid
+{
+	width:438px;
+	height: 298px;
+	margin-left:46px;
+}
+#contact
+{
+	width:100%;
+	height: 40px;
+	background-color: grey;
+	margin:0px;
+}
+.footer
+{
+	font-family: sans-serif;
+	font-size: 30px;
+	padding-left: 40px;
+	margin: 0px;
+	float:left;
+
+}
+.favio
+{	
+	text-align: center;
+	margin:0px;
+	padding-top: 0px;
+}
+li
+{
+	list-style-type:none;
+	font-size: 25px;
+	margin-left:0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	display: inline-block;
+	background: #000;
+}
+.fav
+{
+	width:80px;
+	padding-top:10px;	
+	display: block;
+	color: #fff;
+	margin: 0px;
+}
+.fa
+{
+	margin:0px;
+	padding-top: 0px;
+}
