@@ -1,0 +1,42 @@
+body
+{
+	margin:0;
+	width:100%;
+	background-image:url(../img/background.jpg);
+	background-repeat:no-repeat;
+	height:200%;
+}
+.hero
+{
+
+}
+.herotext
+{
+	padding-left:100px;
+	font-family:sans-serif;
+	float:left;
+	height:auto;width:40%;
+	font-size:25px;
+	padding-top:25px;
+	color:#A9A9A9;
+}
+.heroimage
+{
+	background-repeat:no-repeat;
+	margin-left:50%;
+	height:100%;
+	width:auto;
+	background-image:url(../img/fifa.png);
+	background-repeat:no-repeat;
+}
+#hero
+{
+	background-color:#434C68;
+	height:330px;
+}
+.heading
+{
+	color: #4b9661;
+	text-shadow: 2px 2px #376605;
+	font-weight: bold;
+}
